@@ -1,0 +1,8 @@
+flask
+pdfplumber
+scikit-learn
+numpy
+pandas
+reportlab
+nltk
+werkzeug
